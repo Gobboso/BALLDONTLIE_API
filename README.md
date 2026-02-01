@@ -1,4 +1,4 @@
-# API de Equipos y Jugadores
+# BALLDONTLIE_API
 
 API REST desarrollada con FastAPI que proporciona información sobre equipos y jugadores de **Counter-Strike 2 (CS2)** y **NBA** desde el proveedor externo **BallDontLie**.
 

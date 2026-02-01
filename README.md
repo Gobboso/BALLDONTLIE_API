@@ -607,7 +607,3 @@ echo $API_KEY      # Bash
 - [ ] Swagger UI funciona en http://localhost:8000/docs
 
 ---
-
-**Última actualización:** 31 Enero 2026  
-**Autor:** Gabriel  
-**Licencia:** MIT
